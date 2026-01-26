@@ -1,0 +1,15 @@
+{
+  "name": "session-stash",
+  "version": "1.0.0",
+  "description": "Save all open tabs across all windows to a timestamped bookmark folder with one click",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "license": "MIT",
+  "author": "Tom McFarlin"
+}
