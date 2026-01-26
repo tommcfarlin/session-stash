@@ -43,10 +43,6 @@ If you try to save again within 2 minutes, you'll be asked to confirm to prevent
 5. Click "Load unpacked"
 6. Select the repository folder
 
-### From Chrome Web Store
-
-Coming soon.
-
 ## Browser Support
 
 Tested and supported on:
