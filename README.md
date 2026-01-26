@@ -23,15 +23,25 @@ If you try to save again within 2 minutes, you'll be asked to confirm to prevent
 
 ## Installation
 
-### From Source (Developer Mode)
+### From GitHub Releases (Recommended)
 
-1. Download or clone this repository
-2. Open your browser's extension page:
+1. Download the latest `session-stash-x.x.x.zip` from [Releases](https://github.com/tommcfarlin/session-stash/releases)
+2. Unzip the file
+3. Open your browser's extension page:
    - **Brave**: `brave://extensions`
    - **Chrome**: `chrome://extensions`
-3. Enable "Developer mode" (toggle in top-right)
-4. Click "Load unpacked"
-5. Select the `tab-saver` folder
+4. Enable "Developer mode" (toggle in top-right)
+5. Click "Load unpacked"
+6. Select the unzipped folder
+
+### From Source (Developer Mode)
+
+1. Clone this repository
+2. Run `npm install` (only needed for running tests)
+3. Open your browser's extension page (see above)
+4. Enable "Developer mode"
+5. Click "Load unpacked"
+6. Select the repository folder
 
 ### From Chrome Web Store
 
