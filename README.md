@@ -63,6 +63,16 @@ Session Stash requires four permissions:
 
 No data is collected or transmitted. Everything stays in your browser.
 
+## Troubleshooting
+
+**Notifications not appearing?**
+
+On macOS, check System Settings → Notifications → Brave/Chrome and ensure notifications are enabled. Also verify that Focus/Do Not Disturb mode is not active.
+
+**Extension not responding after saving?**
+
+If you saved recently, the duplicate detection may be waiting for confirmation. Check your system notifications for a prompt asking "Save again?"
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
